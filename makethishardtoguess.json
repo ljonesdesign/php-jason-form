@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "Jeff",
+        "lastName": "Smith",
+        "email": "jeffs343@ymail.com"
+    },
+    {
+        "firstName": "Karen",
+        "lastName": "Gregson",
+        "email": "k.gregson@zmail.com"
+    },
+    {
+        "firstName": "Jessica",
+        "lastName": "Turner",
+        "email": "jess.t@xmail.com"
+    },
+    {
+        "firstName": "Barry",
+        "lastName": "Nance",
+        "email": "barryn19@xmail.com"
+    },
+    {
+        "firstName": "Kim",
+        "lastName": "Rogers",
+        "email": "krogers@rmail.com"
+    },
+    {
+        "firstName": "Barney",
+        "lastName": "Fife",
+        "email": "bf@jmail.com"
+    },
+   
+    {
+        "firstName": "Blue",
+        "lastName": "James",
+        "email": "bluej@qmail.com"
+    }
+]
