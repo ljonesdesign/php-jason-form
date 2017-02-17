@@ -1,6 +1,6 @@
 <?php
    
-   $myFile = "makethishardtoguess.json";
+   $myFile = "data.json";
    $arr_data = array(); // create empty array
 
   try
